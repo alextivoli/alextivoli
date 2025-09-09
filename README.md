@@ -97,5 +97,3 @@ Collaborativo e orientato al lavoro di squadra, cerco sempre di creare connessio
 
 ---
 
-> **“Creativity is intelligence having fun.”**  
-> — Albert Einstein
