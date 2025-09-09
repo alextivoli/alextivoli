@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Tivoli
 
-**Software Developer & Computer Engineering Student @ UNIPR**  
+**Software Developer & Computer Engineering @ UNIPR**  
 📍 Parma, Italy  
 ✉️ [alextivoli@icloud.com](mailto:alextivoli@icloud.com)  
 [LinkedIn](https://www.linkedin.com/in/alex-tivoli) • 📱 3934764091
